@@ -17,8 +17,8 @@
     </data-source>
     <data-source source="LOCAL" name="Rails my_app: production" uuid="0d3ef068-adcc-4560-a4bd-65f8f1ffd9ac">
       <driver-ref>mysql</driver-ref>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://127.0.0.1/my_app_production</jdbc-url>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/my_app_production</jdbc-url>
       <user-name>root</user-name>
       <libraries />
     </data-source>
